@@ -83,17 +83,19 @@ Performed in Jupyter Notebook using Pandas, NumPy, Seaborn, and Matplotlib.
 
 ### 6.1 Home Page
 
-![Home Page](images/image 1.png)  
+![Home Page](images/image%201.png)  
 
 ---
 
 ### 6.2 Loan Analysis Page
-![Loan Analysis](images/image 2.png)
+
+![Loan Analysis](images/image%202.png) 
+
 ---
 
 ### 6.3 Deposit Analysis Page
 
-![Deposit Analysis](images/image 3.png) 
+![Deposit Analysis](images/image%203.png) 
 
 ---
 
